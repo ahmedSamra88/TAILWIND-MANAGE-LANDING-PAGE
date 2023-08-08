@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-manage-landing-page",
+  "version": "1.0.0",
+  "description": "tailwind taturial project from traversy media channel on youtube set up Tailwind CLI and create a landing page from start to finish, going over many of the common utility classes and then deploying it to InMotion Hosting using Git",
+  "main": "no",
+  "scripts": {
+    "build": "npx tailwindcss -i ./src/input.css -o ./dist/main.css",
+    "watch": "npx tailwindcss -i ./src/input.css -o ./dist/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "taiwind landing page"
+  },
+  "keywords": [
+    "\u001b[A\u001b[Btailwind",
+    "landing",
+    "page"
+  ],
+  "author": "ahmed samra",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
